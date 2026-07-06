@@ -5,7 +5,7 @@ Ro-Ko Dashboard (Rohit-Kohli) is a dynamic Power BI project showcasing a compara
 ## Virat Kohli-Rohit Sharma Dashboard
 
 <p align="center">
-  <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/e160e7c6c34046254948a50053b82814b4a6130d/Virat%20Kohli.png?raw=true" alt="Virat Kohli" width="100%" />
+  <img src="https://github.com/77341122/RO-KO-dashboard/blob/main/virat.jpeg?raw=true" alt="Virat Kohli" width="100%" />
 </p>
 
 <p align="center">
